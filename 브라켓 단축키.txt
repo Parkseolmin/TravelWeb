@@ -1,0 +1,4 @@
+브라켓 단축키
+
+뷰티파이 : ctrl + shift + L
+html에서 css 바로 수정 : ctrl + E
